@@ -5,7 +5,6 @@ project:
 book:
   title: Visualization Curriculum
   author: Jeffrey Heer, Dominik Moritz, Jake VanderPlas, and Brock Craft
-  logo: altair-hist.png
   repo-url: https://github.com/uwdata/visualization-curriculum
   repo-branch: master
   repo-actions: [issue]
